@@ -2,12 +2,12 @@ Ce "Repository" GitHub, contient le code MATLAB du projet "Perceptron Monocouche
 
 Réalisé par:
   - Abdessamad EL KAOURI
-  - Layati MOHCIN
-  - Ouarda HJILA
-  - Ali OUCHAIR.
+  - L. Mohcin
+  - H. Ouarda
+  - O. Ali
   
 Professeur: 
-  - Ahmed ROUKHE
+  - R. Ahmed
   
 Organisation:
   - Faculté des sciences, Université Ibn Tofail, Kénitra.
@@ -18,7 +18,7 @@ Filière:
 Contenu: 
   - Perceptron Monocouche
   - Perceptron Monocouche (Décente du gradient)
-  - Perceptron Multicouches                             🚨 Pas encore ajouté
+  - Perceptron Multicouches
   - Classification d'images                             🚨 Pas encore ajouté
   
 une fois le code est bien structuré et commenté, il sera ajouté
