@@ -15,10 +15,8 @@ Organisation:
 Filière:
   - Master Electronique Embarquée
   
-Contenu: 
+Contenu: (par ordre)
   - Perceptron Monocouche
   - Perceptron Monocouche (Décente du gradient)
   - Perceptron Multicouches
-  - Classification d'images                             🚨 Pas encore ajouté
-  
-une fois le code est bien structuré et commenté, il sera ajouté
+  - Classification d'images
